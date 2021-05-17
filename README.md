@@ -1,2 +1,2 @@
 # DesignPatterns
-Basic implementation of 24 design patterns. (Useful for lookup for future reference)
+Basic implementation of 23 design patterns. (Useful for lookup for future reference)
